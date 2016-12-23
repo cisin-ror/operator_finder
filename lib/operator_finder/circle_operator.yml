@@ -1,0 +1,95 @@
+operator:
+  28: 'AIRTEL'
+  1:  'AIRCEL'
+  3:  'BSNL'
+  22: 'VODAFONE'
+  17: 'TATA DOCOMO GSM'
+  18: 'TATA DOCOMO CDMA'
+  13: 'RELIANCE GSM'
+  12: 'RELAINCE CDMA'
+  10: 'MTS'
+  19: 'UNINOR'
+  9:  'LOOP'
+  5:  'VIDEOCON'
+  6:  'MTNL MUMBAI'
+  20: 'MTNL DELHI'
+  0:  'NONE'
+  8:  'IDEA'
+  17: 'VIRGIN GSM'
+  18: 'VIRGIN CDMA'
+  17: 'T24'
+circle_code:
+  5:  'Andhra Pradesh'
+  19: 'Assam'
+  17: 'Bihar & Jharkhand'
+  23: 'Chennai'
+  1:  'Delhi/NCR'
+  8:  'Gujarat'
+  16: 'Haryana'
+  21: 'Himachal Pradesh'
+  22: 'Jammu & Kashmir'
+  7:  'Karnataka'
+  14: 'Kerala'
+  3:  'Kolkata'
+  2:  'Mumbai'
+  20: 'North East'
+  18: 'Orissa'
+  15: 'Punjab'
+  13: 'Rajasthan'
+  6:  'Tamil Nadu'
+  9:  'Uttar Pradesh (E)'
+  11: 'Uttar Pradesh (W)'
+  12: 'West Bengal'
+  4:  'Maharashtra'
+  10: 'Madhya Pradesh'
+  0:  'None'
+operator1:
+  AC: "AIRCEL"
+  AT: "AIRTEL"
+  CC: "BSNL"
+  CG: "BSNL"
+  DC: "DATACOM (Now renamed as Videocon Mobile Services)"
+  DP: "MTNL"
+  ET: "Etisalat India (Getting into the market as Cheers Mobile)"
+  ID: "IDEA"
+  LM: "LOOP MOBILE"
+  MT: "MTS"
+  PG: "PING CDMA (HFCL Infotel Ltd.)"
+  RC: "RELIANCE CDMA"
+  RG: "RELIANCE GSM"
+  RJ: "Reliance Jio Infocomm"
+  SP: "Spice Digital"
+  ST: "S Tel"
+  T24: "T24"
+  TD: "TATA DOCOMO"
+  TI: "TATA INDICOM"
+  UN: "UNINOR"
+  VC: "VIRGIN CDMA"
+  VG: "VIRGIN GSM"
+  VF: "VODAFONE"
+  VD: "VIDEOCON"
+circle_code1:
+  AP: "Andhra Pradesh Telecom Circle, includes Telangana and Yanam districtalso."
+  AS: "Assam Telecom Circle."
+  BR: "Bihar and Jharkhand Telecom Circle."
+  CH: "Chennai Metro Telecom Circle (includes Chennai, MEPZ and Mahabalipuram)."
+  DL: "Delhi Metro Telecom Circle (includes NCR, Faridabad, Ghaziabad, Gurgaon and Noida)."
+  GJ: "Gujarat Telecom Circle (includes Daman and Diu, Dadra and Nagar Haveli)."
+  HP: "Himachal Pradesh Telecom Circle."
+  HR: "Haryana Telecom Circle (excludes Faridabad, Gurgaon and Panchkula)."
+  JK: "Jammu and Kashmir Telecom Circle."
+  KL: "Kerala Telecom Circle (includes Lakshadweep and Mahé))."
+  KA: "Karnataka Telecom Circle."
+  KO: "Kolkata Metro Telecom Circle (includes parts of Howrah, Hooghly, North and South 24 Parganas and Nadia Districts)."
+  MH: "Maharashtra Telecom Circle (includes Goa but excludes Mumbai, Navi Mumbai and Kalyan)."
+  MP: "Madhya Pradesh and Chhattisgarh Telecom Circle."
+  MU: "Mumbai Metro Telecom Circle (includes Navi Mumbai and Kalyan)"
+  NE: "North East India Telecom Circle (includes Arunachal Pradesh, Meghalaya, Mizoram, Nagaland, Manipur and Tripura)."
+  OR: "Odisha Telecom Circle."
+  PB: "Punjab Telecom Circle (includes Chandigarh and Panchkula)."
+  RJ: "Rajasthan Telecom Circle."
+  TN: "Tamil Nadu Telecom Circle (excludes CH Chennai, MEPZ, Mahabalipuram and Minjur and includes Puducherry except Yanam and Mahé)."
+  UE: "Uttar Pradesh (East) Telecom Circle."
+  UW: "Uttar Pradesh (West) and Uttarakhand Telecom Circle (excludes Ghaziabad and Noida)."
+  WB: "West Bengal Telecom Circle (includes Andaman and Nicobar Islands, Sikkim excludes Calcutta Telecom District)."
+  ZZ: "Customer Care (All Over India)."
